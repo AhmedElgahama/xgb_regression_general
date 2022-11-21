@@ -19,3 +19,4 @@ rjson
 caTools
 imputeTS
 tictoc
+CatEncoders
