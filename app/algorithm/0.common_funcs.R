@@ -109,7 +109,7 @@ tester_func <- function(mdl, test_set) {
   
   results <- list()
   results[['test_predictions']] <-
-    tibble(pred = test_predictions)
+    tibble(prediction = test_predictions)
   
   results
   
